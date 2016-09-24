@@ -1,0 +1,8 @@
+git clone git@github.com:chamzep/javaWPCrawler.git	//从github clone原始代码
+
+
+进入到git文件夹
+git add .
+git commit -m "提交说明"
+
+git push origin master //提交
