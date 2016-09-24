@@ -1,8 +1,12 @@
-git clone git@github.com:chamzep/javaWPCrawler.git	//´Ógithub cloneÔ­Ê¼´úÂë
+git clone git@github.com:chamzep/javaWPCrawler.git	//ä»github cloneåŸå§‹ä»£ç 
 
 
-½øÈëµ½gitÎÄ¼ş¼Ğ
+è¿›å…¥åˆ°gitæ–‡ä»¶å¤¹
 git add .
-git commit -m "Ìá½»ËµÃ÷"
+git commit -m "æäº¤è¯´æ˜"
 
-git push origin master //Ìá½»
+git push origin master //æäº¤
+
+
+PULL:
+git pull origin master
